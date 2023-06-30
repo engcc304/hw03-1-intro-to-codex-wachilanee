@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Just arrange then compile",
+      "setup": "g++ -o a.out ./Homework/HW01/hw03-1-codex.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "This is 10 + 20 = 30 Here okHere okHere okHere okHere okHere okHere okHere okHere This is 8. okHere ok",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
