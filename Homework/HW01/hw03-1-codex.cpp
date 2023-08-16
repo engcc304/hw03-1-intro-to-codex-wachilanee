@@ -10,7 +10,7 @@ int main() {
             printf( " This is 8." ) ;
           }
     }//end if
-    printf( " ok" ) ;
+    printf( "ok" ) ;
   }//end for
   return 0 ;
 }
